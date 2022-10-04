@@ -1,0 +1,8 @@
+install
+
+npm i express
+
+
+wt is express ?
+express is nodejs framework
+used to make more easy to use nodejs

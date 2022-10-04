@@ -1,0 +1,7 @@
+get body of request
+
+npm i body-parser
+
+body parse only use in middleware
+
+link : https://www.npmjs.com/package/body-parser

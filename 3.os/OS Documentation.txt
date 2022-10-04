@@ -1,0 +1,26 @@
+-- Node os
+used to get operating system properties
+
+only run in node 
+open poweshel or cmt prompt 
+type node
+then type these following properties
+u can see the best future of nodejs
+
+
+1 ) os.arch()
+	used to get bit of os
+	32 bit or 64bit
+2 ) os.cpus()
+	get details of speed of processor
+3 ) os.freemem()
+	know about free memory space of your os
+4 ) os.platform()
+	know which platform
+	windows , linux or mac
+5 ) os.release()
+	version of os
+6 ) os.tmpdir()
+	temperary directory
+7 ) os.homedir()
+	home directory

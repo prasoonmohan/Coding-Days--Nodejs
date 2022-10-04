@@ -1,0 +1,13 @@
+NODEMON
+
+npm i nodemon
+
+
+used to re-run programs when any changes happen
+
+
+
+nodemon [program_name]
+
+
+link : https://www.npmjs.com/package/nodemon

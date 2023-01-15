@@ -1,0 +1,11 @@
+
+installation >>>>
+
+* install hbs through express-generator
+    npm i express-generator --view=hbs
+
+* install other dependencies
+	npm install
+
+* start running
+	npm start
